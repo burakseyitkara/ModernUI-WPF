@@ -95,7 +95,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Screenshot_2.jpg" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\rocket.png" />
     <Resource Include="Images\flame.png" />
